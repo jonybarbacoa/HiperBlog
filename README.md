@@ -10,6 +10,8 @@ Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/g
 * Trucos muy locos del profesor
 * Las personalidades mÃºltiples de Freddy
 * Creado por el increible PLatzi team 
+* Incluye ejemplo de LInux y Mac
+* Disponibles para todas las edades
 * ser mas millornario ,asi es!
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
